@@ -2,7 +2,7 @@
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://clockfabric.github.io/robo-form",
+  "homepage": "https://clockfabric.github.io/react-form",
   "dependencies": {
     "bulma": "^0.7.5",
     "react": "^16.8.6",
