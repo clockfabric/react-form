@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/robo-form/static/css/main.34de6062.chunk.css",
-    "main.js": "/robo-form/static/js/main.12a9e815.chunk.js",
-    "main.js.map": "/robo-form/static/js/main.12a9e815.chunk.js.map",
-    "runtime~main.js": "/robo-form/static/js/runtime~main.78c1602c.js",
-    "runtime~main.js.map": "/robo-form/static/js/runtime~main.78c1602c.js.map",
-    "static/css/2.3ddb7c29.chunk.css": "/robo-form/static/css/2.3ddb7c29.chunk.css",
-    "static/js/2.2c16b26f.chunk.js": "/robo-form/static/js/2.2c16b26f.chunk.js",
-    "static/js/2.2c16b26f.chunk.js.map": "/robo-form/static/js/2.2c16b26f.chunk.js.map",
-    "index.html": "/robo-form/index.html",
-    "precache-manifest.81eb047810606e30eba381278f0a2fbb.js": "/robo-form/precache-manifest.81eb047810606e30eba381278f0a2fbb.js",
-    "service-worker.js": "/robo-form/service-worker.js",
-    "static/css/2.3ddb7c29.chunk.css.map": "/robo-form/static/css/2.3ddb7c29.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/robo-form/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/react-form/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-form/static/js/main.12a9e815.chunk.js",
+    "main.js.map": "/react-form/static/js/main.12a9e815.chunk.js.map",
+    "runtime~main.js": "/react-form/static/js/runtime~main.98e38a88.js",
+    "runtime~main.js.map": "/react-form/static/js/runtime~main.98e38a88.js.map",
+    "static/css/2.3ddb7c29.chunk.css": "/react-form/static/css/2.3ddb7c29.chunk.css",
+    "static/js/2.2c16b26f.chunk.js": "/react-form/static/js/2.2c16b26f.chunk.js",
+    "static/js/2.2c16b26f.chunk.js.map": "/react-form/static/js/2.2c16b26f.chunk.js.map",
+    "index.html": "/react-form/index.html",
+    "precache-manifest.3383e2312b2230d19f348ae17dbf790d.js": "/react-form/precache-manifest.3383e2312b2230d19f348ae17dbf790d.js",
+    "service-worker.js": "/react-form/service-worker.js",
+    "static/css/2.3ddb7c29.chunk.css.map": "/react-form/static/css/2.3ddb7c29.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-form/static/css/main.34de6062.chunk.css.map"
   }
 }
